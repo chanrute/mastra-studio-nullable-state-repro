@@ -1,0 +1,5 @@
+overrides:
+  '@mastra/deployer': 1.83.0
+  '@mastra/server': 1.83.0
+allowBuilds:
+  esbuild: true

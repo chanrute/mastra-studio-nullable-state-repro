@@ -1,0 +1,1 @@
+{"name":"mastra-studio-nullable-state","private":true,"type":"module","packageManager":"pnpm@12.20.0","scripts":{"dev":"mastra dev"},"dependencies":{"@mastra/core":"1.83.0","zod":"4.6.7"},"devDependencies":{"mastra":"1.39.0"}}
